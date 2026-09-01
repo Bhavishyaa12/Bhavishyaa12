@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey folks.My name is Bhavishya Bahel
 
-<!--
-**Bhavishyaa12/Bhavishyaa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently into Linux system administration and automation
 
-Here are some ideas to get you started:
+Tools which I know:
+Linux | Python | Git | Bash | Automation | Process and Memory Management | Vim | SSH | Netowking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also made projects to reduce the load of linux system administrator's 
+
+Projects:
+  Linux system Administrator script written in python
+
+  Linux file integrity checker written in bash
+
+  Linux server perfomance script
+
+Also have a good knowledge of cyber security and familiar with tools like wireshark,burpsuite,nmap.
