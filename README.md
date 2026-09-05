@@ -1,4 +1,4 @@
-# Hey folks 👋
+# Hey folks 
 
 My name is **Bhavishya Bahel**.
 
@@ -24,7 +24,7 @@ I have made a few projects to reduce the load of a linux system administrator.
 
 - **[Linux-file-integrity-checker](https://github.com/Bhavishyaa12/Linux-file-integrity-checker)** — A lightweight file integrity checker written in bash. Takes a file or a directory hashes it with sha256sum and tells you if anything has changed since the last check.
 
-- **Linux server performance script** — A script to keep an eye on a linux server's performance without needing extra tools installed.
+- **[Linux server performance script](https://github.com/Bhavishyaa12/Linux-Server-Perfomance-stats-script)** — A script to keep an eye on a linux server's performance without needing extra tools installed.
 
 ## Cyber security
 
