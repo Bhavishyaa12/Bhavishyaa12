@@ -40,4 +40,4 @@ I like building things that solve a real problem for admins instead of adding mo
 
 ---
 
-📌 Feel free to check out my repos below and drop a star if something helps you out.
+Feel free to check out my repos below and drop a star if something helps you out.
