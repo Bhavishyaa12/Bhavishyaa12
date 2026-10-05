@@ -21,6 +21,8 @@ I am currently into Linux system administration and automation. I spend most of 
 
 I have made a few projects to reduce the load of a linux system administrator.
 
+- **[Hackathon web portal](https://github.com/Bhavishyaa12/Dogfood)** — A hackathon hosting fully functional web portal which is based on MERN stack.With nginx serving the frontend and adding a proxy to the backend.It just runs in one command `docker compose up --build` and done.Session handling,role based authorization,jwt access and refresh token handling,password hashing,email validation and many more is there in this fully offline portal.
+
 - **[Linux_sys_admin_tool](https://github.com/Bhavishyaa12/Linux_sys_admin_tool)** — A zero dependency linux system administration script written in python. Checks file integrity user privileges permissions SUID/SGID bits running processes open ports active services auth logs and system info. Basically an all in one security audit tool for admins.
 
 - **[Linux-file-integrity-checker](https://github.com/Bhavishyaa12/Linux-file-integrity-checker)** — A lightweight file integrity checker written in bash. Takes a file or a directory hashes it with sha256sum and tells you if anything has changed since the last check.
