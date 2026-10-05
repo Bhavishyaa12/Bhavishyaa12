@@ -2,12 +2,11 @@
 
 My name is **Bhavishya Bahel**.
 
-I am currently into Linux system administration and automation. I spend most of my time writing scripts that make a sys admin's life a little easier instead of running the same 100 commands by hand every time.
+I am currently into Linux system administration and automation. I spend most of my time writing scripts that make a sys admin's life a little easier instead of running the same 100 commands by hand every time.I am also interested in building full-stack web applications with validation,verification,authentication and authorization
 
 ## Tools which I know
 
 - Linux
-- Python
 - Git
 - Bash
 - Automation
@@ -15,6 +14,8 @@ I am currently into Linux system administration and automation. I spend most of 
 - Vim
 - SSH
 - Networking
+- Docker
+- MERN Stack
 
 ## Projects
 
@@ -34,10 +35,20 @@ Along with sys admin work I also have a good grip on cyber security. Familiar wi
 - Burp Suite
 - Nmap
 
+## Web development
+
+Both backend and frontend:
+
+- MongoDB
+- React.js
+- Express.js
+- Node.js
+- Nginx
+  
 ## What I am about
 
-I like building things that solve a real problem for admins instead of adding more noise. Most of my projects are zero dependency and built to actually be used on a real server not just sit in a repo.
+I like building things that solve a real problem for developers instead of adding more noise. Most of my projects are zero dependency and built to actually be used on a real server not just sit in a repo
 
 ---
 
-Feel free to check out my repos below and drop a star if something helps you out.
+Feel free to check out my repos below and drop a star if something helps you out
